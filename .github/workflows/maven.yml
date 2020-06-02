@@ -2,7 +2,7 @@ name: Java CI # как называется Workflow
 
 on: [push] # когда срабатывает (на push)
 
-jobs: # какие задачи делаем
+jobs: # какие задачи делаемgi
   build: # сборка
     runs-on: ubuntu-latest # на какой ОС запускаем
 
